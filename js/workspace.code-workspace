@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\my projects\\project3"
+		},
+		{
+			"path": "..\\..\\..\\..\\my projects\\project2"
+		},
+		{
+			"path": "..\\..\\..\\miniProject 1"
+		},
+		{
+			"path": "..\\..\\..\\miniProject 2"
+		},
+		{
+			"path": "..\\..\\..\\..\\toastNotification"
+		},
+		{
+			"path": "..\\..\\..\\..\\hoverBoard"
+		},
+		{
+			"path": "..\\..\\backgroundSlider"
+		},
+		{
+			"path": "..\\..\\carousel image"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "autoText"
+	}
+}
